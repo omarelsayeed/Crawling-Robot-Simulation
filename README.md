@@ -39,6 +39,8 @@ The urdf and the meshes are present in the repository and free for use.
 # Testing Reward 
 ![image](https://user-images.githubusercontent.com/64399795/175574635-e99844b4-0697-4ea2-87cb-aeedaf18fd8b.png)
 ![image](https://user-images.githubusercontent.com/64399795/175574690-850212fb-b55c-4a16-b1fd-3b0344d50d62.png)
+# Comparison 
+![image](https://user-images.githubusercontent.com/64399795/175609247-6a3c191f-bb79-49ae-8465-429ed14a64df.png)
 
 
 ## The Environment 
