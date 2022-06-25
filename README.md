@@ -8,6 +8,12 @@ Teaching a Robot how to Crawl using a robotic arm that's two joints
 - The Simulation is done to show the learning process , how the joints will move , and how the algorithm can be improved.
 - i learnt alot about simulation and robotics from this project , things like inverse kinematics , physics engines , etc.
 
+
+
+https://user-images.githubusercontent.com/64399795/175786996-f5fb4f30-7a0c-49b4-ab9b-ac3cd9b44d11.mp4
+
+
+
 ## Table of Contents 
 
 - Installation
