@@ -10,7 +10,6 @@ Teaching a Robot how to Crawl using a robotic arm that's two joints
 
 
 
-https://user-images.githubusercontent.com/64399795/175786996-f5fb4f30-7a0c-49b4-ab9b-ac3cd9b44d11.mp4
 
 
 
